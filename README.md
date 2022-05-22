@@ -5,6 +5,6 @@ React app for donating with blockchain
     yarn build
     yarn start 
     
-3. Backend / yarn build 
+3. Backend 
     yarn build
     yarn start
